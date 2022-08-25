@@ -5,7 +5,6 @@ I might make this loader work soon so stay tuned 😊
 
 We had multiple different frameworks projects Used on these project, these frameworks used are .NET Winforms, .NET WPF and the Final and the current one is C++ Qt.
 
-So I decide to share the Winform version here cus im deleting it to my PC.
 Have fun making this as your base idk what you do with it.
 
 Screenshots: 
