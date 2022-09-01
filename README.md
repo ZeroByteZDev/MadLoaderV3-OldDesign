@@ -1,7 +1,6 @@
 # MadLoaderV3-OldDesign
 This is the earliest design of MadLoader (Now Known as MadUI) Version 3.
 
-I might make this loader work soon so stay tuned 😊
 
 We had multiple different frameworks projects Used on these project, these frameworks used are .NET Winforms, .NET WPF and the Final and the current one is C++ Qt.
 
